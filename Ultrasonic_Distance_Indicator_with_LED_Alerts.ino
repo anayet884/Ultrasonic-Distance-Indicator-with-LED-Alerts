@@ -1,9 +1,9 @@
-const int trigPin = 3;
-const int echoPin = 6;
+const int trigPin = 4;
+const int echoPin = 5;
 long duration;
 int distance;
-int led1=7;
-int led2=9;
+int led1=8;
+int led2=7;
 int led3=10;
 
 void setup() {
